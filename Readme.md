@@ -51,8 +51,9 @@ stock-price-analysis-nifty50/
 
 ## 📸 Dashboard Preview
 Here are two screenshots of the interactive Power BI dashboard:
-
+**BEL**
 ![Dashboard Screenshot - BEL](dashboard/screenshots/BEL.png)
+**KPIT**
 ![Dashboard Screenshot - KPIT](dashboard/screenshots/KPIT.png)
 
 ---
@@ -77,3 +78,4 @@ Here are two screenshots of the interactive Power BI dashboard:
 
 ## 👤 Author
 **Omkar Sawant** 🔗 [LinkedIn](https://www.linkedin.com/in/omkar-sawant-9118742ab/) | [GitHub](https://github.com/OmSawant98)
+
